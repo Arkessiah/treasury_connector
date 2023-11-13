@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Version Contracts for Deploy in remix
+TreasuryVremix.sol
+
+# Others
+
+.DS_Store
